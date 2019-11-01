@@ -9,3 +9,9 @@ function nowServing(katzDeliLine){
     return "Currently serving "+katzDeliLine.shift()+"."
   }
 }
+
+function currentLine(line){
+  if (line.length === 0) return ""
+  let result = "The line is currently: "
+  for 
+}
